@@ -1,7 +1,9 @@
-VBA Excel project with Data Base, Certificate forms, Calculating uncertainty 
+# VBA Excel project with Data Base, Certificate forms, Calculating uncertainty 
 =============================
 
 Welcome to the VBA Excel project
+
+## Usage
 
 This project helps to automate a lot of tasks such as:
 	- Data Base of all devices
@@ -11,3 +13,7 @@ This project helps to automate a lot of tasks such as:
 	- Pick engineer name
 	- Calculating uncertainty automate
 	- Pick Etalons
+
+	
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
