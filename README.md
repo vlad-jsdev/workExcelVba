@@ -8,9 +8,9 @@ Welcome to the VBA Excel project
 	git clone https://github.com/vladosxxx/workExcelVba.git
 	```
 2. Make folders 
-* D:\Work\Калибровка\2020
-* D:\Work\Поверка\2020
-* D:\Work\Протокол измерений\2020
+ * D:\Work\Калибровка\2020
+ * D:\Work\Поверка\2020
+ * D:\Work\Протокол измерений\2020
 
 ## Usage
 
