@@ -5,7 +5,7 @@ Welcome to the VBA Excel project
 ## Installation
 
 1. ```bash
-		git clone https://github.com/vladosxxx/workExcelVba.git
+	git clone https://github.com/vladosxxx/workExcelVba.git
 	```
 2. Make folders 
 * D:\Work\Калибровка\2020
